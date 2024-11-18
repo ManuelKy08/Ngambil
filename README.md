@@ -83,4 +83,4 @@ Editor: Slamet Hadi Purnomo								Copyright © ANTARA 2024
 ```
 
 ## Notice
-Hanya Video-video dari youtube saja yang bisa di convert mp3 atau mp4, Selamat Menikmati! tanpa ads dan pop up malware di website pada umunya
+Script Sederhana yang dapat mempersingkat waktu.
